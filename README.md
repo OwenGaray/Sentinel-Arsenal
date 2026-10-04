@@ -23,7 +23,8 @@ I am a cybersecurity practitioner focused on [defensive security / offensive sec
 
 ## Projects
 
-* **[Project Name 1]**: Brief description of the tool or lab environment.
+## 📝 Technical Write-ups & Methodology
+* **[Advanced Google Search: Notes From Actually Using It](./writeups/osint/advanced-google-search.md)** - A practical breakdown of Google Dorking for OSINT, detailing undocumented operators, search methodology, and the filtering mindset required for effective passive reconnaissance.
 * **[Project Name 2]**: Brief description of the vulnerability assessment or script.
 
 ## Connect with me
