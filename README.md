@@ -28,4 +28,4 @@ I am a cybersecurity practitioner focused on [defensive security / offensive sec
 * **[Project Name 2]**: Brief description of the vulnerability assessment or script.
 
 ## Connect with me
-* LinkedIn: [Your LinkedIn Profile URL](https://linkedin.com/in/username)
+* LinkedIn: https://www.linkedin.com/in/ifeanyi-nwachukwu-95b0bb324
